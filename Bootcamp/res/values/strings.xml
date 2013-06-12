@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bootcamp</string>
+    <string name="User">User</string>
+    <string name="Tweet">Default tweet data</string>
+    <string name="menu_settings">Settings</string>
+    <string name="loading">Loading Data</string>
+    <string name="MissingContent">Content Unavailable</string>
+    <string name="Date">Date</string>
+    <string name="search">Search Query</string>
+    <string name="refresh">Refresh</string>
+    <string name="noData">No Data</string>
+    <string name="Title">#mobiledev</string>
+    <string name="title_tweetQuery">Searched Hashtag</string>
+    <string name="tweetSearch">Please Enter the Hashtag You Wish To Search</string>
+    <string name="enter">Enter</string>
+    
+
+</resources>
